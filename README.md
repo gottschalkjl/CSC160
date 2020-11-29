@@ -23,7 +23,6 @@ The course reviewed algorithm development, data representation, logical expressi
 * Chapter 8: Arrays & Strings
 * Chapter 9: Records (structs)
 * Chapter 10: Classes & Data Abstraction
-* Chapter 11: Inheritance & Composition
 
 ## Status
 Project is: finished
