@@ -1,0 +1,51 @@
+10
+The Grapes of Wrath
+John Steinbeck
+April 14, 1939
+13
+21.85
+Moby Dick
+Herman Melville
+October 18, 1851
+0
+11.79
+The Adventures of Tom Sawyer
+Mark Twain
+December 1, 1876
+8
+4.95
+Without Remorse
+Tom Clancy
+August 11, 1993
+5
+9.95
+The Adventures of Huckleberry Finn
+Mark Twain
+December 10, 1884
+7
+3.99
+The Diary of a Young Girl
+Anne Frank
+June 25, 1947
+19
+15.75
+Red Storm Rising
+Tom Clancy
+August 7, 1986
+7
+9.99
+Helmet For My Pillow
+Robert Leckie
+January 1, 1957
+5
+19.99
+With the Old Breed
+Eugene Sledge
+January 1, 1981
+5
+19.99
+1984
+George Orwell
+June 8, 1949
+13
+19.84
